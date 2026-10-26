@@ -1,0 +1,12 @@
+# 依赖
+node_modules/
+
+# 截图与报告生成脚本（不需要进仓库）
+shots/
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+*.log
+
+# 注意：docs/ 是打包产物，要提交到仓库，GitHub Pages 用它
